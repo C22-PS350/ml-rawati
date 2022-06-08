@@ -1,0 +1,141 @@
+Exercise,Calories
+"Cycling, mountain bike, bmx",646.5
+"Cycling, <10 mph, leisure bicycling",304.0
+"Cycling, >20 mph, racing",1216.75
+"Cycling, 10-11.9 mph, light",456.0
+"Cycling, 12-13.9 mph, moderate",608.5
+"Cycling, 14-15.9 mph, vigorous",760.5
+"Cycling, 16-19 mph, very fast, racing",912.5
+Unicycling,380.25
+"Stationary cycling, very light",228.0
+"Stationary cycling, light",418.25
+"Stationary cycling, moderate",532.25
+"Stationary cycling, vigorous",798.5
+"Stationary cycling, very vigorous",950.75
+"Calisthenics, vigorous, pushups, situps…",608.5
+"Calisthenics, light",266.25
+"Circuit training, minimal rest",608.5
+"Weight lifting, body building, vigorous",456.0
+"Weight lifting, light workout",228.0
+Health club exercise,418.25
+Stair machine,684.25
+"Rowing machine, light",266.25
+"Rowing machine, moderate",532.25
+"Rowing machine, vigorous",646.5
+"Rowing machine, very vigorous",912.5
+Ski machine,532.25
+"Aerobics, low impact",380.25
+"Aerobics, high impact",532.25
+"Aerobics, step aerobics",646.5
+"Aerobics, general",494.25
+Jazzercise,456.0
+"Stretching, hatha yoga",304.0
+Mild stretching,190.25
+Instructing aerobic class,456.0
+Water aerobics,304.0
+"Ballet, twist, jazz, tap",342.5
+"Ballroom dancing, slow",228.0
+"Ballroom dancing, fast",418.25
+"Running, 5 mph (12 minute mile)",608.5
+"Running, 5.2 mph (11.5 minute mile)",684.25
+"Running, 6 mph (10 min mile)",760.5
+"Running, 6.7 mph (9 min mile)",836.5
+"Running, 7 mph (8.5 min mile)",874.5
+"Running, 7.5mph (8 min mile)",950.75
+"Running, 8 mph (7.5 min mile)",1026.5
+"Running, 8.6 mph (7 min mile)",1064.5
+"Running, 9 mph (6.5 min mile)",1140.75
+"Running, 10 mph (6 min mile)",1216.75
+"Running, 10.9 mph (5.5 min mile)",1368.75
+"Running, cross country",684.25
+"Running, general",608.5
+"Running, on a track, team practice",760.5
+"Running, stairs, up",1140.75
+"Track and field (shot, discus)",304.0
+"Track and field (high jump, pole vault)",456.0
+Track and field (hurdles),760.5
+Archery,266.25
+Badminton,342.5
+"Basketball game, competitive",608.5
+"Playing basketball, non game",456.0
+"Basketball, officiating",532.25
+"Basketball, shooting baskets",342.5
+"Basketball, wheelchair",494.25
+"Running, training, pushing wheelchair",608.5
+Billiards,190.25
+Bowling,228.0
+"Boxing, in ring",912.5
+"Boxing, punching bag",456.0
+"Boxing, sparring",684.25
+"Coaching: football, basketball, soccer…",304.0
+"Cricket (batting, bowling)",380.25
+Croquet,190.25
+Curling,304.0
+Darts (wall or lawn),190.25
+Fencing,456.0
+"Football, competitive",684.25
+"Football, touch, flag, general",608.5
+"Football or baseball, playing catch",190.25
+"Frisbee playing, general",228.0
+"Frisbee, ultimate frisbee",608.5
+"Golf, general",342.5
+"Golf, walking and carrying clubs",342.5
+"Golf, driving range",228.0
+"Golf, miniature golf",228.0
+"Golf, walking and pulling clubs",327.0
+"Golf, using power cart",266.25
+Gymnastics,304.0
+Hacky sack,304.0
+Handball,912.5
+"Handball, team",608.5
+"Hockey, field hockey",608.5
+"Hockey, ice hockey",608.5
+"Riding a horse, general",304.0
+"Horesback riding, saddling horse",266.25
+"Horseback riding, grooming horse",266.25
+"Horseback riding, trotting",494.25
+"Horseback riding, walking",190.25
+"Horse racing, galloping",608.5
+"Horse grooming, moderate",456.0
+Horseshoe pitching,228.0
+Jai alai,912.5
+"Martial arts, judo, karate, jujitsu",760.5
+"Martial arts, kick boxing",760.5
+"Martial arts, tae kwan do",760.5
+Krav maga training,760.5
+Juggling,304.0
+Kickball,532.25
+Lacrosse,608.5
+Orienteering,684.25
+Playing paddleball,456.0
+"Paddleball, competitive",760.5
+Polo,608.5
+"Racquetball, competitive",760.5
+Playing racquetball,532.25
+"Rock climbing, ascending rock",836.5
+"Rock climbing, rappelling",608.5
+"Jumping rope, fast",912.5
+"Jumping rope, moderate",760.5
+"Jumping rope, slow",608.5
+Rugby,760.5
+"Shuffleboard, lawn bowling",228.0
+Skateboarding,380.25
+Roller skating,532.25
+"Roller blading, in-line skating",912.5
+Sky diving,228.0
+"Soccer, competitive",760.5
+Playing soccer,532.25
+Softball or baseball,380.25
+"Softball, officiating",304.0
+"Softball, pitching",456.0
+Squash,912.5
+"Table tennis, ping pong",304.0
+Tai chi,304.0
+Playing tennis,532.25
+"Tennis, doubles",456.0
+"Tennis, singles",608.5
+Trampoline,266.25
+"Volleyball, competitive",608.5
+Playing volleyball,228.0
+"Volleyball, beach",608.5
+Wrestling,456.0
